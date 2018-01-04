@@ -55,3 +55,8 @@ Please remember to bring your own laptop with the last version of R installed, i
   - **Introduction to tidyverse (Antwerpen) Feb 21st, 2018**
     - Instructors: [Stijn Wittouck](https://github.com/SWittouck) and [Sander Wuyts](https://github.com/swuyts)
     - Registrations will open soon. Please send me an [email](../../#contact) if you want to receive the news. 
+    
+**Would you like to be involved in future workshops?**
+{{< tweet 942509173287411713>}}
+
+Please send contact [me](../../#contact) 
