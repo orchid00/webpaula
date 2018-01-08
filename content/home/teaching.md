@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 +++
 
-I am trainer and teaching instructor for [Elixir](https://www.elixir-europe.org/platforms/training), [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/), please get in [contact](#contact) if you are interested in wether learning or teaching. I am planing several short workshops (1 to 2 days) during this year in different locations around Belgium and in Europe. The next workshops that I am organising and/or teaching are:
+I am trainer and teaching instructor for [Elixir](https://www.elixir-europe.org/platforms/training), [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/), please get in [contact](#contact) if you are interested in whether learning or teaching. I am planing several short workshops (1 to 2 days) during this year in different locations around Belgium and in Europe. The next workshops that I am organising and/or teaching are:
 
 - [Introduction to tidyverse](project/tidyverse-workshops/) (Antwerpen) Feb 21st, 2018
 - [Introduction to tidyverse](project/tidyverse-workshops/) (Leuven)
