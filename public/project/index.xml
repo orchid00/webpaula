@@ -28,9 +28,27 @@ If you live in Ghent and you are intersted in shaping the R ladies community her
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/tidyverse-workshops/</guid>
-      <description>&lt;p&gt;Handle your data the tidy way: an introduction to data science using R and some of the &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;tidyverse&lt;/a&gt; packages&lt;/p&gt;
+      <description>&lt;p&gt;As scientists we deal with experiments to test our hypotheses. These experiments more often are filling our computers and minds with data. Data can give us
+answers to our hypotheses, but most of the time we come up with more questions. Here is when, we, as scientists start to realize we are much in need of data analysis skills. The scholar pathway of life scientists is sliding towards data science, by default.&lt;/p&gt;
 
-&lt;p&gt;The use of R in the data science field has increased enormously the last few years. One very useful toolkit for a wide variety of analyses is the &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;‘tidyverse’&lt;/a&gt;: a collection of R packages used for data manipulation, exploration and visualization that share a common design philosophy.&lt;/p&gt;
+&lt;p&gt;If you are from a biological science background (or other than engineering) and you are being confronted with the need of computational literacy, you are not
+the only one. A good read and advice is here: &lt;a href=&#34;http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871&#34; target=&#34;_blank&#34;&gt;Ten simple rules for biologists learning to program&lt;/a&gt;. This text also applies to other non-biology fields of
+research.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why do I give training in data skills?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am currently part of the Training Platform of &lt;a href=&#34;https://www.elixir-europe.org/&#34; target=&#34;_blank&#34;&gt;Elixir-Europe&lt;/a&gt; / &lt;a href=&#34;https://www.elixir-belgium.org/&#34; target=&#34;_blank&#34;&gt;Elixir-Belgium&lt;/a&gt; as data science and bioinformatics trainer. My career interests include training, R, data analysis, and statistics. My goal as trainer is to help people make data and information &lt;a href=&#34;https://www.nature.com/articles/sdata201618.pdf&#34; target=&#34;_blank&#34;&gt;FAIR&lt;/a&gt;. As a carpentry
+instructor and trainer I see the need of supporting data skill needs and leading best practices to work with and manage data.  Hence, that is why I do this job.
+As an R enthusiast and open-access advocate I promote R, its community and its resources. R is a tool, as there are many others. The goal of my trainings is not to learn/teach a tool, the goal should be to discover possibilities.&lt;/p&gt;
+
+&lt;p&gt;By experience, I had discovered the multiple possibilities given by the programming language R, its interface Rstudio and many of its packages for specific analyses. &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;Tidyverse&lt;/a&gt; is a powerful resource, that is gaining a lot of popularity because of its usefulness and because it is an open door for data science. All of the packages in the tidyverse share a philosophy and interact
+well with each other. The best way to start learning the tidyverse is by using
+it. I am offering workshops at different levels, and I am happy to have a chat if you have questions or request of workshops. Co-organising workshops with Elixir Belgium is also of my interest. So, contact me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Workhops&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Handle your data the tidy way: an introduction to data science using R and some
+of the  packages&lt;/p&gt;
 
 &lt;p&gt;Tidyverse packages are intended to make data analysis tasks more efficient. It gives a clear and readable structure to your analysis, resulting in reproducible work products.&lt;/p&gt;
 
@@ -44,31 +62,29 @@ If you live in Ghent and you are intersted in shaping the R ladies community her
 &lt;li&gt;Use tidyverse functions to research biological problems&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;LEVEL&lt;/strong&gt;: A &lt;a href=&#34;https://www.datacamp.com/courses/free-introduction-to-r&#34; target=&#34;_blank&#34;&gt;basic knowledge of the R programming language&lt;/a&gt; is expected.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LEVEL&lt;/strong&gt;: A basic knowledge of the R programming language is expected.&lt;/p&gt;
 
-&lt;p&gt;We expect a little bit of R-experience for this workshop. If you’re already an R-wizard but never did anything using tidyverse, then this workshop is a great introduction to it! If you’re not an R-wizard but know a little bit of R, then this workshop is a great way to improve your R skills quickly.
-If you’re already pretty good with tidyverse, then we can not help you as this is an introductory workshop.&lt;/p&gt;
-
-&lt;p&gt;Please remember to bring your own laptop with the last version of R installed, instructions will be given to participants.&lt;/p&gt;
+&lt;p&gt;These are hands-on sessions. Atteendees are required to bring their own laptops with the latest versions of R, RStudio and tidyverse installed, instructions
+will be given to participants.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Registration&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction to tidyverse (Antwerpen) Feb 21st, 2018&lt;/strong&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Instructors: &lt;a href=&#34;https://github.com/SWittouck&#34; target=&#34;_blank&#34;&gt;Stijn Wittouck&lt;/a&gt; and &lt;a href=&#34;https://github.com/swuyts&#34; target=&#34;_blank&#34;&gt;Sander Wuyts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Registrations will open soon. Please send me an &lt;a href=&#34;../../#contact&#34;&gt;email&lt;/a&gt; if you want to receive the news.
+&lt;li&gt;&lt;a href=&#34;http://www.vib.be/en/training/research-training/courses/Pages/Elixir-tidyverse-Intro-Feb2018-Antwerp.aspx&#34; target=&#34;_blank&#34;&gt;Introduction to tidyverse (Antwerpen) Feb 21st, 2018&lt;/a&gt; Instructors: &lt;a href=&#34;https://github.com/SWittouck&#34; target=&#34;_blank&#34;&gt;Stijn Wittouck&lt;/a&gt; and &lt;a href=&#34;https://github.com/swuyts&#34; target=&#34;_blank&#34;&gt;Sander Wuyts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vib.be/en/training/research-training/courses/Pages/Elixir-tidyverse-Intro-March2018-Leuven.aspx&#34; target=&#34;_blank&#34;&gt;Introduction to tidyverse (Leuven) March 5th&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vib.be/en/training/research-training/courses/Pages/Elixir-tidyverse-Intro-March2018-Ghent.aspx&#34; target=&#34;_blank&#34;&gt;Introduction to tidyverse (Ghent) March 7th&lt;/a&gt;
 &lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Want to find more events?
+&lt;a href=&#34;https://tess.elixir-europe.org/events&#34; target=&#34;_blank&#34;&gt;TeSS&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Would you like to be involved in future workshops?&lt;/strong&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;If there is an offer for a free workshop on data skills, who would like to join? &lt;a href=&#34;https://twitter.com/UAntwerpen?ref_src=twsrc%5Etfw&#34;&gt;@UAntwerpen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/ugent?ref_src=twsrc%5Etfw&#34;&gt;@ugent&lt;/a&gt; &lt;a href=&#34;https://twitter.com/KU_Leuven?ref_src=twsrc%5Etfw&#34;&gt;@KU_Leuven&lt;/a&gt; &lt;a href=&#34;https://twitter.com/uni_vub?ref_src=twsrc%5Etfw&#34;&gt;@uni_vub&lt;/a&gt; would any offer a seminar room? What would be the workshop level? &lt;a href=&#34;https://twitter.com/ELIXIRnodeBE?ref_src=twsrc%5Etfw&#34;&gt;@ELIXIRnodeBE&lt;/a&gt;&lt;/p&gt;&amp;mdash; Paula Andrea (@orchid00) &lt;a href=&#34;https://twitter.com/orchid00/status/942509173287411713?ref_src=twsrc%5Etfw&#34;&gt;December 17, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Please send contact &lt;a href=&#34;../../#contact&#34;&gt;me&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please contact &lt;a href=&#34;../../#contact&#34;&gt;me&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
